@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tk-ramen.github.io/yamanashi-souvenir-ranking/sitemap.xml
